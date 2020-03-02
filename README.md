@@ -1,2 +1,2 @@
 # SynchronizationChecker
-Check synchronization  for partial automata
+Check synchronization for partial  deterministic automata and nondeterministic automata.
